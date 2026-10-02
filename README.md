@@ -8,3 +8,5 @@ Il est marqué new file: README.md dans la zone de staging / index, prêt à êt
 ligne ajouté
 
 15. bonus : Git ne peut pas décider automatiquement quelle version garder, on le résout en ouvrant le fichier concerné, en choisissant ou combinant manuellement les modifications puis en faisant git add et git commit
+
+yoo! this is simple modification for fetch !!
