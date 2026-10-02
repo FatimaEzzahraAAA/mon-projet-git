@@ -13,3 +13,5 @@ yoo! this is simple modification for fetch !!
 
 
 ## Description : Projet d'apprentissage de Git et GitHub.
+
+24. Une Pull Request est préférable à un push direct car elle protège la branche principale des régressions, garde un historique traçable et facilite le travail collaboratif en équipe.
